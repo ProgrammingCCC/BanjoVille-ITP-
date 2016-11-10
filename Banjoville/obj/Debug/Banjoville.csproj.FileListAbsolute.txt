@@ -1,0 +1,12 @@
+Z:\Visual Studio 2015\Projects\Banjoville\Banjoville\bin\Debug\Banjoville.exe.config
+Z:\Visual Studio 2015\Projects\Banjoville\Banjoville\bin\Debug\Banjoville.exe
+Z:\Visual Studio 2015\Projects\Banjoville\Banjoville\bin\Debug\Banjoville.pdb
+Z:\Visual Studio 2015\Projects\Banjoville\Banjoville\obj\Debug\Banjoville.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\Banjoville\Banjoville\obj\Debug\Banjoville.exe
+Z:\Visual Studio 2015\Projects\Banjoville\Banjoville\obj\Debug\Banjoville.pdb
+\\siam2\user2\janell\Visual Studio 2015\Projects\Banjoville\Banjoville\bin\Debug\Banjoville.exe.config
+\\siam2\user2\janell\Visual Studio 2015\Projects\Banjoville\Banjoville\obj\Debug\Banjoville.exe
+\\siam2\user2\janell\Visual Studio 2015\Projects\Banjoville\Banjoville\obj\Debug\Banjoville.pdb
+\\siam2\user2\janell\Visual Studio 2015\Projects\Banjoville\Banjoville\bin\Debug\Banjoville.exe
+\\siam2\user2\janell\Visual Studio 2015\Projects\Banjoville\Banjoville\bin\Debug\Banjoville.pdb
+\\siam2\user2\janell\Visual Studio 2015\Projects\Banjoville\Banjoville\obj\Debug\Banjoville.csprojResolveAssemblyReference.cache
